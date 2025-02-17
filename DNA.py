@@ -5,7 +5,8 @@ c = s.count("C")
 g = s.count("G")
 t = s.count("T")
 print(a, c, g, t)
-
+ 
+ 
 
 
 
