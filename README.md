@@ -1,4 +1,4 @@
-#Computational Biology Pipeline Project
+Computational Biology Pipeline Project
 
 
 Step 1: Retrieve Transcriptomes from SRA
