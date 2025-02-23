@@ -1,3 +1,6 @@
+#Computational Biology Pipeline Project
+
+
 Step 1: Retrieve Transcriptomes from SRA
 Overview
 For this project, you will retrieve the transcriptomes of two patient donors at 2- and 6-days post-infection (dpi) from the SRA (Sequence Read Archive). These datasets are publicly available on NCBI and will be converted into paired-end FASTQ files for downstream analysis. The four relevant datasets are:
