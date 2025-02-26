@@ -17,7 +17,7 @@ BLAST +
 
 R and Sleuth package
 
-# Wrapper Python Script
+# Clone Repository 
 
 to run this script, please clone this GitHub repository with: 
 
@@ -35,6 +35,13 @@ Donor 1 (2dpi): https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR5660030/SRR56600
 Donor 1 (6dpi): https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR5660033/SRR5660033
 Donor 3 (2dpi): https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR5660044/SRR5660044
 Donor 3 (6dpi): https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR5660045/SRR5660045
+```
+# Wrapper.py 
+
+Using the wrapper.py script, run this command line to run the pipeline. 
+
+```bashh
+python3 wrapper.py
 ```
 
 
