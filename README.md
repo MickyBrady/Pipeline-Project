@@ -35,12 +35,16 @@ Donor 1 (6dpi): https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR5660033/SRR56600
 Donor 3 (2dpi): https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR5660044/SRR5660044
 Donor 3 (6dpi): https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR5660045/SRR5660045
 ```
-# Wrapper.py 
+# Running the Wrapper.py 
 
 Once you've cloned the repository and downloaded the data, 
 you can run the pipeline using the wrapper.py script.
 
-To execute the pipeline, use the following command:
+To execute the pipeline, navigate to the directory and use the following command:
+
+ ```bashh
+cd Pipeline-Project
+```
 
 ```bashh
 python3 wrapper.py
