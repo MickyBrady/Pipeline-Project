@@ -25,10 +25,9 @@ to run this script, please clone this GitHub repository with:
 git clone https://github.com/MickyBrady/Pipeline-Project.git
 ```
 
-This repository contains a smaller sample_data subset set of transcriptomes from two patient donors. 
-
-Using wget for the original sample. The first 10,000 reads from  the SRA were converted to paired-end fastq files.
-
+This repository includes a smaller sample_data subset of transcriptomes from two patient donors.
+You can download the full dataset from SRA using the following wget commands. 
+The first 10,000 reads from each sample were converted to paired-end fastq files for quick testing.
 ```
 wget
 Donor 1 (2dpi): https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR5660030/SRR5660030
@@ -38,7 +37,10 @@ Donor 3 (6dpi): https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR5660045/SRR56600
 ```
 # Wrapper.py 
 
-Using the wrapper.py script, run this command line to run the pipeline. 
+Once you've cloned the repository and downloaded the data, 
+you can run the pipeline using the wrapper.py script.
+
+To execute the pipeline, use the following command:
 
 ```bashh
 python3 wrapper.py
