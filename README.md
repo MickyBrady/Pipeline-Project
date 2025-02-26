@@ -25,9 +25,9 @@ to run this script, please clone this GitHub repository with:
 git clone https://github.com/MickyBrady/Pipeline-Project.git
 ```
 
-This repository contains a sample_data set of transcriptomes from two patient donors. 
+This repository contains a smaller sample_data subset set of transcriptomes from two patient donors. 
 
-Using wget this sample took the first 10,000 reads from  SRA and converted to paired-end fastq files.
+Using wget for the original sample. The first 10,000 reads from  the SRA were converted to paired-end fastq files.
 
 ```
 wget
