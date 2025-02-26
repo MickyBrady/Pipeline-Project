@@ -1,10 +1,9 @@
-Computational Biology Pipeline Project
+# Computational Biology Pipeline Project
 
-#Pipeline for Transcriptome Analysis
+This project aims to develop a Python wrapper script to automate the execution of various bioinformatics tools for analyzing HCMV transcriptomes.
 
-#Step 1: Retrieving Transcriptomes from SRA and Converting to FASTQ Files
+# Step 1: Retrieving Transcriptomes from SRA and Converting to FASTQ Files
 
-We first retrieve the transcriptomes from SRA (Sequence Read Archive) for the patient donors to begin the analysis pipeline. This step involves downloading the SRA files and converting them to paired-end FASTQ files using `fastq-dump`.
 
 
 
