@@ -1,6 +1,6 @@
 # Computational Biology Pipeline Project
 
-This project aims to develop a Python wrapper script to automate the execution of various bioinformatics tools for analyzing HCMV transcriptomes.
+This project aims to develop a Python wrapper script to automate the execution of various bioinformatics tools for analyzing HCMV transcriptomes. The pipeline includes steps like quality control, alignment, assembly, and differential expression analysis using tools like Kallisto, Bowtie2, SPAdes, and Sleuth.
 
 # List of required Tools 
 Python3 
