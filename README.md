@@ -31,10 +31,10 @@ Using wget this sample took the first 10,000 reads from  SRA and converted to pa
 
 ```
 wget
- Donor 1 (2dpi): https://www.ncbi.nlm.nih.gov/sra/SRX2896360
-Donor 1 (6dpi): https://www.ncbi.nlm.nih.gov/sra/SRX2896363
-Donor 3 (2dpi): https://www.ncbi.nlm.nih.gov/sra/SRX2896374
-Donor 3 (6dpi): https://www.ncbi.nlm.nih.gov/sra/SRX2896375
+Donor 1 (2dpi): https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR5660030/SRR5660030
+Donor 1 (6dpi): https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR5660033/SRR5660033
+Donor 3 (2dpi): https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR5660044/SRR5660044
+Donor 3 (6dpi): https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR5660045/SRR5660045
 ```
 
 
