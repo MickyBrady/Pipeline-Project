@@ -21,6 +21,8 @@ R and Sleuth package
 
 to run this script, please clone this github repository with: 
 
+'git clone https://github.com/MickyBrady/Pipeline-Project.git'
+
 
 
 
